@@ -19,4 +19,7 @@ Provided insight into the methods chosen
 Analyzed, Modeled, and Visualized
 
 Provided a clear connection between business questions and how the data answers them.
+
 4) Communicated Insights
+
+Link to the Blog on Medium.com - https://medium.com/@abhijeetshrivastava08/programmers-are-extroverts-50e566de405
